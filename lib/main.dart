@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Container(child: Text('TERUのFlutter大学')),
+        title: Container(child: Text('Kboyさん')),
       ),
     body: Container(
       width: double.infinity,
